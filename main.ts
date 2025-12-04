@@ -68,7 +68,3 @@ let LIMITE_RUIDO = 0
 LIMITE_RUIDO = 140
 // Nº de lecturas rápidas por ciclo
 MUESTRAS = 8
-// Nº de lecturas rápidas por ciclo
-basic.forever(function () {
-	
-})
